@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-05-09",
+  "owner": {
+    "username": "sameerw786",
+    "password": "sameerwpro",
+    "role": "owner",
+    "isActive": true,
+    "createdAt": "2026-05-09T00:00:00Z"
+  },
+  "admins": [],
+  "blockedUsers": [],
+  "settings": {
+    "requireAuth": true,
+    "allowAutoTrade": true,
+    "maxDevicesPerAdmin": 3,
+    "tradeInterval": 35,
+    "defaultAmount": 10
+  },
+  "stats": {
+    "totalAdmins": 0,
+    "activeDevices": 0,
+    "totalTrades": 0
+  }
+}
